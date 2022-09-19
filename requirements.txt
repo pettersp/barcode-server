@@ -1,0 +1,8 @@
+pandas
+streamlit
+cv2
+pyzbar
+google
+beautifulsoup4
+flask
+streamlit_webrtc
